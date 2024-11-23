@@ -7,6 +7,7 @@
 
 The official issue tracker has numerous issues ([#1532](https://github.com/getcursor/cursor/issues/1532) and [#1410](https://github.com/getcursor/cursor/issues/1410)) for official ARM support. Read the [FAQ](#faq) to learn how this works.
 
+
 > [!NOTE]
 > These are unofficial builds.
 
